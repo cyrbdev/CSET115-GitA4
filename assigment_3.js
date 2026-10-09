@@ -11,4 +11,4 @@ function checkNumber(arr, num){
 }
 
 console.log(checkNumber([1, 2, 3, 4, 5], 10))
-console.log(checkNumber([1, 2, 3, 4, 5], 3))
+console.log(checkNumber([1, 2, 3, 4, 5], 4))
